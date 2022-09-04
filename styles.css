@@ -1,0 +1,21 @@
+.hello{
+    font-family: sans-serif;
+}
+.devil{
+    color: blue; 
+    background-color: beige;
+}
+h4{
+    color: brown;
+}
+a{
+    text-decoration:none;
+}
+.product{
+    background-color: green;
+}
+.end{
+
+    background-color: black;
+    display: flexbox;
+}
